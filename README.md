@@ -1,0 +1,1 @@
+# aws_certified_solutions_architect_associate
